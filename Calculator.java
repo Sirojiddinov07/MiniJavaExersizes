@@ -40,7 +40,6 @@ class calculator extends JFrame implements ActionListener {
         // create a textfield
         l = new JTextField(16);
 
-        // set the textfield to non editable
         l.setEditable(false);
 
         // create number buttons and some operators
